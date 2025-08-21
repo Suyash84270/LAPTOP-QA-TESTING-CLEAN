@@ -1,0 +1,4 @@
+Brand,Type,RAM (in GB),Weight of the Laptop (in kg),Screen Size (in inches),Screen Resolution,CPU,HDD (in GB),SSD (in GB),GPU,Operating System
+Dell,Ultrabook,8,1.5,15.6,1920x1080,Intel Core i5,512,256,Intel,Windows
+HP,Gaming,16,2.2,17.3,2560x1440,Intel Core i7,1024,512,Nvidia,Windows
+Apple,Ultrabook,8,1.3,13.3,2880x1800,AMD Ryzen 5,0,512,AMD,Mac

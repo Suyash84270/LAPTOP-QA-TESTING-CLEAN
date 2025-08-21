@@ -1,0 +1,10 @@
+playwright
+pytest
+pytest-html
+streamlit
+numpy
+pandas
+scikit-learn
+playwright
+pytest
+pytest-html

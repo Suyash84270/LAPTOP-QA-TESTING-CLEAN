@@ -1,0 +1,7 @@
+﻿.venv/
+__pycache__/
+.pytest_cache/
+playwright-report/
+streamlit.log
+report.html
+*.pkl
